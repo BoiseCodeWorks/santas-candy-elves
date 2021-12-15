@@ -9,7 +9,7 @@ What is the total amount of candy in the bowl for this paticular given day?
 
 
 ```javascript
-var elves = [
+[
     {
         name: 'Jingle',
         timeIn: 600,
@@ -66,5 +66,5 @@ var elves = [
         timeOut: 1900,
         candyConsumed: 13 
     }
-];
+]
 ```
